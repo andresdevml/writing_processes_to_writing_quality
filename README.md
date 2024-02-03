@@ -1,4 +1,4 @@
-# Proyecto de Predicción de Calidad de Escritura 🖋️
+# Predicción de Calidad de Escritura 🖋️
 
 Esta competencia tiene como objetivo desarrollar un modelo predictivo para evaluar la calidad de la escritura basándonos en la mecánica conductual de la misma.
 
